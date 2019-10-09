@@ -1,4 +1,6 @@
 # ECT2_TD_Scilab
 
-gilles.lassus [at] ac-bordeaux.fr
+TD de Scilab en ECT2  
+
+gilles.lassus [at] ac-bordeaux.fr  
 Lycée Brémontier / Bordeaux
